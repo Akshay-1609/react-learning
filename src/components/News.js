@@ -48,6 +48,7 @@ export class News extends Component {
    
     super();
     this.state={
+      articales:this.articales 
 
     }
   }
